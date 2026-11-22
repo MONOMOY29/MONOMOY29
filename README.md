@@ -19,8 +19,7 @@ B.Tech CSE student at Academy of Technology (MAKAUT), batch of 2029.
 
 ## Hackathons
 - Synapse 1.0 (Kalyani GEC): finalist, placed 8th. Team project, I led integration and presentation.
-- 
-- PromptWars Challenge 1: Top 400. [proof link]
+- PromptWars Challenge 1: Top 400.
 - Also participated in HACKHAZARDS '26 and Solution Challenge 2026
 
 ## How I build
