@@ -26,4 +26,4 @@ B.Tech CSE student at Academy of Technology (MAKAUT), batch of 2029.
 Most of my projects so far were built with AI-assisted development, and each README says so. I'm working on understanding every project well enough to explain it myself.
 
 ## Contact
-[LinkedIn link]
+www.linkedin.com/in/monomoy-dikshit-064391344
