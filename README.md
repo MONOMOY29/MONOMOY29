@@ -18,7 +18,8 @@ B.Tech CSE student at Academy of Technology (MAKAUT), batch of 2029.
 - [LegalEase AI](https://github.com/MONOMOY29/legal-ease-ai): rental agreement explainer (Streamlit + Gemini), solo
 
 ## Hackathons
-- Synapse 1.0 (Kalyani GEC): finalist, placed 8th. Team project, I led integration and presentation. [proof link]
+- Synapse 1.0 (Kalyani GEC): finalist, placed 8th. Team project, I led integration and presentation.
+- 
 - PromptWars Challenge 1: Top 400. [proof link]
 - Also participated in HACKHAZARDS '26 and Solution Challenge 2026
 
